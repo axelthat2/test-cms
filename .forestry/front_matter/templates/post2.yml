@@ -1,4 +1,13 @@
 ---
 label: Post2
 hide_body: false
-fields: []
+fields:
+- name: textera
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Textera
