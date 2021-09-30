@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/test2
   label: Test2
-  match: "**/*"
 - type: directory
   path: content/articles
   label: Articles
