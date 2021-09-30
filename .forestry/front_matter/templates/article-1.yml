@@ -29,3 +29,5 @@ fields:
       path: 
   label: language
   description: Language
+pages:
+- content/articles/this-is-article-s-title.md
